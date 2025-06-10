@@ -6,7 +6,7 @@
 - Ambiente em Container Kubernetes 
 
 ### 📂 Projetos Atuais
-*Projeto Petrobras**: atuação como Tech Lead | Scrum Master gerenciando 3 Squads Ágeis.
+**Projeto Petrobras**: atuação como Tech Lead | Scrum Master gerenciando 3 Squads Ágeis.
    - SIMPROD - Sistema de Produção
    - IPL - Interface Padrão de Laboratório
    - GIEN - Gestão Integrada de Engenharia Naval
