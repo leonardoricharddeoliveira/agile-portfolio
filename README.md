@@ -11,8 +11,8 @@ Tech Lead e Scrum Master com mais de 10 anos de experiência em Tecnologia, aos 
    - Ambiente em Container Kubernetes 
 
 ### 🛠️ Templates  
-- [Checklist de Sprint Planning](https://github.com/LeonardoRichardDeOliveira-Agile/agile-portfolio/blob/main/templates/F1%20PLANNING%20TEMPLATE.docx)  
-- [Modelo de Retrospectiva](https://github.com/LeonardoRichardDeOliveira-Agile/agile-portfolio/blob/main/templates/F1%20RETRO%20TEMPLATE.docx)  
+- [Checklist de Sprint Planning](https://docs.google.com/document/d/e/2PACX-1vRJbeCO3ZMg28xWGyRUnhmp4-VLDeprbw8iu54jFuDMPLVb10fCxLHOEMcYW7dv6b_P3h2Oh9dr8IuR/pub)  
+- [Modelo de Retrospectiva](https://docs.google.com/document/d/e/2PACX-1vRGgN-oFLCqxsiAsPxwS9833Y-PDUrK2nl4yoy6EV5ZWDtY_DkjJhIt-ytJS3M11Cy_L3DpDNtmE0R8/pub)  
 
 ### 🌐 Contato  
 - LinkedIn: https://www.linkedin.com/in/leonardorichardoliveira/ 
