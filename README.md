@@ -1,7 +1,11 @@
 # 🚀 Portfólio Agile - Leonardo Richard de Oliveira  
 
 ### 👋 Sobre Mim  
-Tech Lead e Scrum Master com mais de 10 anos de experiência em Tecnologia, aos quais 3 são ajudando times a entregar valor com Agile, remover impedimentos e melhorar processos.  
+Tech Lead e Scrum Master com mais de 10 anos de experiência no setor de tecnologia, liderando a transformação de equipes e processos em ambientes corporativos de alta complexidade. Atuo diretamente na Petrobras, via Atos, liderando squads ágeis e implementando frameworks que geram resultados mensuráveis em entrega de valor e performance organizacional.
+
+Minha abordagem combina liderança técnica e facilitação ágil, utilizando métricas de fluxo (lead time, cycle time, throughput) para impulsionar melhorias contínuas reais. Expertise na integração de Scrum, Kanban e SAFe, priorizo a autonomia das equipes, a sustentabilidade dos resultados e a condução de transformações culturais genuínas.
+
+Certificado CSM®, SFPC™, DSPC™ e Lean Six Sigma Yellow Belt, além de múltiplas credenciais em agilidade. Estou em constante evolução, preparado para novos desafios como Scrum Master full-time. Se busca alguém que transforma teoria ágil em resultados práticos e lidera transformações digitais de impacto, vamos conversar sobre como posso contribuir com sua organização.
 
 ### 📂 Projetos Destacados  
 - **Projeto Petrobras**: atuação como Tech Lead | Scrum Master gerenciando 4 squads ágeis.
