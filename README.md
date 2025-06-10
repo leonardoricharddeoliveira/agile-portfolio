@@ -10,12 +10,9 @@ Tech Lead e Scrum Master com mais de 10 anos de experiência em Tecnologia, aos 
    - Aplicação composta por BD:PostgreSQL, Frontend: Angular, Backend: C#.
    - Ambiente em Container Kubernetes 
 
-### 🛠️ Templates e Ferramentas  
-- [Modelo de Retrospectiva](link-para-arquivo)  
+### 🛠️ Templates  
 - [Checklist de Sprint Planning](link-para-arquivo)  
-
-### 📊 Métricas Ágeis  
-![Burndown Chart](link-para-imagem)  
+- [Modelo de Retrospectiva](link-para-arquivo)  
 
 ### 🌐 Contato  
 - LinkedIn: https://www.linkedin.com/in/leonardorichardoliveira/ 
