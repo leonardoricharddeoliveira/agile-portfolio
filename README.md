@@ -15,4 +15,5 @@
 ### 📂 Desafio Técnico Itaú
 **Sistema de Investimento**: Atuação como Scrum Master
 - Objetivo: Criar um sistema de controle de investimentos em renda variável, com foco em operações de compra/venda de ativos, cálculo de posição, integração com dados externos (cotações via Kafka), APIs REST e escalabilidade.
+  
 ![image](https://github.com/user-attachments/assets/72135a12-d520-4684-8352-ef882512d255)
