@@ -13,4 +13,4 @@
 ---
 ### 📂 Projeto Experimental (em andamento)
 **Projeto Itaú (pessoal)**: Atuação como Scrum Master
-- Facilitando o desenvolvimento de um Sistema de investimentos
+- Objetivo: Criar um sistema de controle de investimentos em renda variável, com foco em operações de compra/venda de ativos, cálculo de posição, integração com dados externos (cotações via Kafka), APIs REST e escalabilidade.
