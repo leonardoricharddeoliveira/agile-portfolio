@@ -12,5 +12,5 @@
    - GIEN - Gestão Integrada de Engenharia Naval
 ---
 ### 📂 Projeto Experimental (em andamento)
-** Projeto Itaú**: Atuação como Scrum Master
+**Projeto Itaú**: Atuação como Scrum Master
 - Facilitando o desenvolvimento de um Sistema de investimentos
