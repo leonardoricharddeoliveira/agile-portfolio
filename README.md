@@ -1,16 +1,16 @@
-### 📂 Projetos Destacados  
-- **Projeto Petrobras**: atuação como Tech Lead
+### 📂 Projetos Destacados  (Atos | Petrobras)
+- **Petrobras**: atuação como Tech Lead
 - Conclusão de um projeto, entrega de uma Aplicação para Gestão de Requisições de Transporte (GART), onde o Roadmap foi de setembro de 2022 à novembro de 2024.
 - Time Composto por 3 Devs (1 Sênior (Backend), 1 Pleno (Backend), 1 Pleno (Frontend), 2 PO, 1 SM e 1 LT))
 - Aplicação composta por BD: PostgreSQL, Frontend: Angular, Backend: C#.
 - Ambiente em Container Kubernetes 
 ---
 ### 📂 Projetos Atuais
-**Projeto Petrobras**: atuação como Tech Lead | Scrum Master sendo Facilitador de 3 Squads Ágeis.
+**Petrobras**: atuação como Tech Lead | Scrum Master sendo Facilitador de 3 Squads Ágeis.
    - SIMPROD - Sistema de Produção
    - IPL - Interface Padrão de Laboratório
    - GIEN - Gestão Integrada de Engenharia Naval
 ---
 ### 📂 Projeto Experimental (em andamento)
-**Projeto Itaú**: Atuação como Scrum Master
+**Projeto Itaú (pessoal)**: Atuação como Scrum Master
 - Facilitando o desenvolvimento de um Sistema de investimentos
